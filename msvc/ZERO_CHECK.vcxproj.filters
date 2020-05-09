@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\freeglut-3.2.1\msvc\CMakeFiles\c3adf494245621891075e5b78e7fc771\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{17D18CBA-66E9-3A9D-BD9D-78F833884232}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
